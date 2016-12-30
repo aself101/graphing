@@ -1,2 +1,11 @@
-# graphing
-MIsc react/redux charts fetching fake data
+# ReduxSimpleStarter
+
+
+```
+	> git@gitlab.com:aself101/ReduxSimpleStarter.git
+	> cd ReduxSimpleStarter
+	> npm install
+	> npm start
+```
+
+

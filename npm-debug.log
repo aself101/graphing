@@ -1,0 +1,26 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/aself/.nvm/versions/node/v7.1.0/bin/node',
+1 verbose cli   '/home/aself/.nvm/versions/node/v7.1.0/bin/npm',
+1 verbose cli   'start' ]
+2 info using npm@3.10.9
+3 info using node@v7.1.0
+4 verbose stack Error: Invalid name: "Chart JS Examples"
+4 verbose stack     at ensureValidName (/home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/normalize-package-data/lib/fixer.js:336:15)
+4 verbose stack     at Object.fixNameField (/home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/normalize-package-data/lib/fixer.js:215:5)
+4 verbose stack     at /home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/normalize-package-data/lib/normalize.js:32:38
+4 verbose stack     at Array.forEach (native)
+4 verbose stack     at normalize (/home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/normalize-package-data/lib/normalize.js:31:15)
+4 verbose stack     at final (/home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:349:5)
+4 verbose stack     at then (/home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:124:5)
+4 verbose stack     at /home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:311:12
+4 verbose stack     at /home/aself/.nvm/versions/node/v7.1.0/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:78:16
+4 verbose stack     at tryToString (fs.js:425:3)
+5 verbose cwd /home/aself/Documents/etc/Graphing
+6 error Linux 3.10.0-514.el7.x86_64
+7 error argv "/home/aself/.nvm/versions/node/v7.1.0/bin/node" "/home/aself/.nvm/versions/node/v7.1.0/bin/npm" "start"
+8 error node v7.1.0
+9 error npm  v3.10.9
+10 error Invalid name: "Chart JS Examples"
+11 error If you need help, you may report this error at:
+11 error     <https://github.com/npm/npm/issues>
+12 verbose exit [ 1, true ]

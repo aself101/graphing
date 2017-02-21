@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Graphing with fake data
 
 
 ```
